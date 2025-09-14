@@ -1,1 +1,1 @@
-The Expense Tracker is a full-stack web app that lets users manage expenses, record income, and view categorized reports with visual insights. It ensures secure access through authentication and provides a responsive interface across devices.
+
