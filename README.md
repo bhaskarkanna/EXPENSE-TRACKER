@@ -62,9 +62,9 @@ Follow these steps to run the project locally:
 5.**Open in browser**
   http://localhost:3000
 
+---
 
-
- ##📂 Folder Structure
+ ## 📂 Folder Structure
     expense/
 ├── README.md
 ├── package.json
@@ -82,23 +82,27 @@ Follow these steps to run the project locally:
 └── database/
     └── db.js
 
+---
 
-##📊 Example Use
+## 📊 Example Use
   1. Add a new expense (e.g., "Food" – ₹250).
   2. Add income (e.g., "Salary" – ₹10,000).
   3. View the updated dashboard — total income, total expense, and remaining balance.
   4. Filter by category or date range to analyze your spending habits.
 
+---
 
-##💡 Future Enhancements
+
+## 💡 Future Enhancements
   1. User authentication (login/signup).
   2. Monthly and yearly reports.
   3. Graphical charts for expenses (using Chart.js or Recharts).
   4. Export to PDF or Excel.
   5. Dark mode UI support.
   6. Cloud database integration.
+     
+---
 
-
-##🏁 Conclusion
+## 🏁 Conclusion
    The Expense Tracker is a practical project that demonstrates fundamental concepts of web development — from CRUD operations to database management and responsive UI design. It’s ideal for students or developers who   want to strengthen their full-stack skills while building something useful for everyday life.
 
